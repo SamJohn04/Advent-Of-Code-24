@@ -1,0 +1,5 @@
+__pycache__
+shell.nix
+dest
+*_input
+
